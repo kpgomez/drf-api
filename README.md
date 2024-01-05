@@ -14,7 +14,7 @@ i.e.
 
 
 #### <span style="color: lightblue">How to initialize/run your application</span>
-- `python manage.py runserver`
+- `docker compose up`
 
 
 #### <span style="color: lightblue">How do you run tests?</span>
